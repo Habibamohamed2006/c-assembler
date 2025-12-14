@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include "assembler.h"
 #define ASSEMBLY_FILE_EXTENSION ".as"
-//amsdmdaasdmasd
+    //amsdmdaasdmasd
+//7848454848
 int main(int argc, char * argv[]) {
     FILE * fd;
     int i;
