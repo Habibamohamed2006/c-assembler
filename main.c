@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "assembler.h"
 #define ASSEMBLY_FILE_EXTENSION ".as"
-
+//amsdmdaasdmasd
 int main(int argc, char * argv[]) {
     FILE * fd;
     int i;
